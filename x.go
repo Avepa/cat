@@ -1,3 +1,7 @@
-package cat
+package main
 
-func X(){}
+import "fmt"
+
+func main() {
+	fmt.Println("")
+}
