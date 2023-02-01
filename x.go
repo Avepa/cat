@@ -1,3 +1,3 @@
-package x
+package cat
 
 func X(){}
